@@ -7,7 +7,7 @@
     <title>Хойка</title>
     <link rel="stylesheet" href="styl_i copy 2.css">
 </head>
-<body>  
+<body>
     <header>
         <table id="table_1">
             <tr>
